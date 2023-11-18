@@ -1,4 +1,3 @@
-import type { UserConfigExport } from "@tarojs/cli";
 
 export default {
   mini: {},
@@ -30,4 +29,4 @@ export default {
     //     }))
     // }
   }
-} satisfies UserConfigExport
+}
